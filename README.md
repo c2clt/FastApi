@@ -78,3 +78,10 @@ https://www.youtube.com/watch?v=7t2alSnE2-I&t=172s
 
 ## Deploy FastApi
 * USing **Deta.sh** website to deploy
+
+=====================================================
+## Setup environment:
+```python
+python -m venv fastapi_env      # Create an virtual environment
+./fastapi_env/Scripts/activate  # activate the virtual environment
+```
