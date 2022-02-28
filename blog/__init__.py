@@ -1,0 +1,1 @@
+# tells Python that blog folder with all its modules (Python files) is a package
