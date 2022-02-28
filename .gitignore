@@ -6,15 +6,16 @@
 # Node artifact files
 node_modules/
 dist/
-flask_env/
+fastapi_env/
+__pycache__/
 
 # Compiled Java class files
 *.class
 
 # Compiled Python bytecode
-*.pyc
-*.pyo
-*.pyd
+# *.pyc
+# *.pyo
+# *.pyd
 # Log files
 *.log
 
